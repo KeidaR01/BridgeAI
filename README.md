@@ -43,9 +43,7 @@ Si el cliente ofrece streaming, desactívalo. Esta versión admite chat de texto
 
 ## Apoya el proyecto
 
-Si te gusto esta herramienta puedes apoyar si gustas, de igual manera esto fue creado para la comunidad.
-
-**[Apoyar en Ko-fi](https://ko-fi.com/keidar)**
+Si BridgeAI te resulta útil, puedes apoyar su desarrollo en [Ko-fi](https://ko-fi.com/keidar). Tu aportación es voluntaria y ayuda a seguir mejorando esta herramienta para la comunidad. ¡Gracias por el apoyo!
 
 ## Licencia
 
