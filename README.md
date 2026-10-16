@@ -10,6 +10,8 @@ Es una herramienta comunitaria independiente. El puente funciona en tu PC y las 
 
 Descarga **BridgeAI.exe** desde la sección **Releases** de este repositorio de GitHub. El ejecutable incluye lo necesario para funcionar; no necesitas instalar Node.js, Python ni Codex.
 
+- **SmartScreen:** el EXE todavía no tiene firma digital de editor y Windows puede mostrar un aviso de aplicación desconocida. Descargarlo desde GitHub no elimina automáticamente ese aviso.
+
 ## Requisitos
 
 - Windows de 64 bits. Probado en Windows 11; Windows 10 está pendiente de una prueba física.
@@ -39,7 +41,7 @@ Si el cliente ofrece streaming, desactívalo. Esta versión admite chat de texto
 
 - **Uso del plan:** las solicitudes consumen la cuota o los créditos disponibles de tu plan, según tu configuración en ChatGPT. No se garantiza uso ilimitado.
 - **Privacidad:** los mensajes enviados por tu aplicación se procesan en OpenAI. BridgeAI no pide tu contraseña ni cookies de sesión de ChatGPT; las credenciales se guardan cifradas para tu usuario de Windows. Mantén privada la clave local.
-- **SmartScreen:** el EXE todavía no tiene firma digital de editor y Windows puede mostrar un aviso de aplicación desconocida. Descargarlo desde GitHub no elimina automáticamente ese aviso.
+
 
 ## Apoya el proyecto
 
